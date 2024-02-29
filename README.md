@@ -245,7 +245,7 @@ Best regards,
 
 
 ### Authors
-- Inplex-sys ( The cool guy who removed the dualhook )
+- Inplex-sys ( Pour avoir passé le src de hawkish c'est un bon )
 - [Zekrom](https://github.com/Zekrom) ( Creator of delta )
 - [Tyzen](https://github.com/xTyzenDev) (Co creator of delta )
 
