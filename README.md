@@ -34,7 +34,7 @@ We hope that this tool will contribute to a safer and more ethical online enviro
 
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [Hawkish Files](https://github.com/Delta-stealer)
+2. Install [Delta Stealer](https://github.com/Delta-stealer)
 3. Install all requirements [install.bat](https://github.com/ZekromDev/Delta-stealer/blob/main/install.bat)
 4. Click on start.bat [start.bat](https://github.com/ZekromDev/Delta-stealer/blob/main/start.bat)
 5. Complete the configuration
