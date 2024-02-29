@@ -279,7 +279,7 @@ class Delta(customtkinter.CTk):
         self.img = customtkinter.CTkLabel(self.about_frame, text="", image=self.logo_ab)
         self.img.grid(row=0, pady=20)
 
-        urls = [("Github", "https://github.com/Delta"),("Discord", "#"),("Telegram", "https://t.me/Zekrom1337")]
+        urls = [("Github", "https://github.com/ZekromDev"),("Discord", "#"),("Telegram", "https://t.me/Zekrom1337")]
 
         for i, (text, url) in enumerate(urls, start=3):
             button = customtkinter.CTkButton(self.about_frame, text=text, fg_color=("gray75", "gray25"),hover_color="#ff0026", command=lambda url=url: webbrowser.open(url))
